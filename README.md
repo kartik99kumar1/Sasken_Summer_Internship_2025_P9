@@ -11,8 +11,8 @@ secure-cpp-server/
 ├── client_ssl.cpp                  # Client-side SSL code
 ├── server_ssl_multithreaded.cpp # Multithreaded server with SSL
 ├── certs/                      # Folder to store SSL certificate and key
-│   ├── server.crt              # Self-signed certificate
-│   └── server.key              # Server private key
+│   ├── server.crt              # Self-signed certificate (Will be generated)
+│   └── server.key              # Server private key  (Will be generated)
 └── README.md                   # Project documentation
 ```
 

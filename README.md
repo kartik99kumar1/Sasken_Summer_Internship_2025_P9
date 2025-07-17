@@ -8,7 +8,7 @@ This project demonstrates how to implement **SSL/TLS encrypted communication** b
 
 ```
 secure-cpp-server/
-├── client.cpp                  # Client-side SSL code
+├── client_ssl.cpp                  # Client-side SSL code
 ├── server_ssl_multithreaded.cpp # Multithreaded server with SSL
 ├── certs/                      # Folder to store SSL certificate and key
 │   ├── server.crt              # Self-signed certificate

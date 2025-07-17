@@ -56,7 +56,7 @@ secure-cpp-server/certs/server.crt
 Save your source code files:
 
 * `server_ssl_multithreaded.cpp` – Secure multithreaded server
-* `client.cpp` – Secure client
+* `client_ssl.cpp` – Secure client
 
 ---
 
@@ -93,6 +93,7 @@ Start the server and client:
 ls
 whoami
 date
+...etc (Look for all the commands possible in the documentation folders.)
 exit  # to disconnect
 ```
 

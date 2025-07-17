@@ -178,4 +178,4 @@ This project is open source and free to use for educational purposes.
 
 ## 🌐 Author
 
-Developed by **Kartik Kumar** – For cybersecurity & secure networking learning.
+Developed by **Kartik Kumar** – In the field of cybersecurity & secure networking learning. - In the Sasken Summer Internship 2025 (02 June 2025  -  25 July 2025)

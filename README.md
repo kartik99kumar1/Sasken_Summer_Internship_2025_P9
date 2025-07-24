@@ -109,7 +109,7 @@ exit  # to disconnect
 4. 🔐 **Key Exchange** – A symmetric key is generated securely using asymmetric encryption.
 5. 📶 **Secure Communication** – All data is now encrypted using the symmetric key.
    <br>
-   <img src="Documentation/SSL.png" alt="Architechure" width="200" height="100"/>
+   <img src="Documentation/SSL.png" alt="Architechure" width="600" height="400"/>
 
 ---
 

@@ -108,7 +108,8 @@ exit  # to disconnect
 3. 🛂 **Certificate Verification** – Client checks if the server’s certificate is trusted.
 4. 🔐 **Key Exchange** – A symmetric key is generated securely using asymmetric encryption.
 5. 📶 **Secure Communication** – All data is now encrypted using the symmetric key.
-   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebsitesecuritystore.com%2Fblog%2Fssl-communication-how-does-it-secure-your-website-data%2F&psig=AOvVaw0CSZGtbwuK0F-UNA1Q_EdT&ust=1753471400614000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiMkpKc1o4DFQAAAAAdAAAAABAE" alt="Architechure" width="200" height="100"/>
+   <br>
+   <img src="Documentation/SSL.png" alt="Architechure" width="200" height="100"/>
 
 ---
 

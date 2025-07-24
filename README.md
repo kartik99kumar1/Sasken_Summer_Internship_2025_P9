@@ -1,5 +1,5 @@
-# 🔐 Secure SSL/TLS Encrypted C++ Client-Server Communication
-
+# 🔐 Secure SSL/TLS Encrypted C++ Client-Server Communication 
+## (Explanation for the folder 'secure-cpp-server')
 This project demonstrates how to implement **SSL/TLS encrypted communication** between a **C++ server and client** using **OpenSSL**. It features a multithreaded server that handles multiple secure client connections.
 
 ---
